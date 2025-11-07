@@ -1,6 +1,6 @@
 # Tour Analytics
 
-> Status do projeto: Em desenvolvimento
+> Status do projeto: Finalizado
 > 
 
 > Este projeto realiza uma análise completa de dados de turnês musicais, respondendo perguntas sobre faturamento, shows, artistas e desempenho financeiro, utilizando Python e bibliotecas de análise de dados.
@@ -39,7 +39,7 @@ As principais etapas incluem:
 | --- | --- |
 | Python | Scripts de ingestão, processamento e análise |
 | Pandas | Manipulação de limpeza dos dados |
-| Jupyter notebook | ambiente de análise |
+| Jupyter notebook | Ambiente de análise |
 | Matplotlib | Para criação de gráficos e vizualização |
 
 ---
